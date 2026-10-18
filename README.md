@@ -1,21 +1,16 @@
+# Cyber Security Journal
+Daily log analysis practice and SOC Analyst learning journey.
 
-# 🛡️ Willy-CybSecNotes
+## Focus
+- Log Management
+- SIEM: Splunk, Microsoft Sentinel, Elastic, QRadar, Wazuh
+- LetsDefend Labs
 
-> I'm Willy — a cybersecurity enthusiast fascinated by how the internet works and how to protect it.
+## Day 1 - Log Analysis
+### Raw Log
+![Raw Log](screenshots/raw-log-analysis-letsdefend.png)
 
-**Mission: Learn, secure, and share.**
+### Filtered Log
+![Filtered Log](screenshots/filtered-log-analysis-letsdefend.png)
 
-### 📚 What you'll find here
-- Network Security Notes
-- Ethical Hacking Labs
-- Privacy & OSINT Tips
-- Tools I use: Nmap, Wireshark, Burp Suite
-
-### 🚀 About Me
-Curious by nature, I love breaking down complex security concepts into simple ideas. Based in Rwanda, focused on building a safer digital ecosystem.
-
-### 📫 Goal
-Documenting my journey from beginner to professional in cybersecurity.
-
----
-⭐ Star this repo if you are on the same journey!
+**What I learned:** How to filter noisy logs to find IOCs
